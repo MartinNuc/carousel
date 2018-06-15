@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+}
+
+.item {
+  font-size: 24px;
+  margin: 30px;
+}
